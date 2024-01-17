@@ -1,2 +1,2 @@
 # ArtigoSobreArte
- Um blog sobre formas alternativas ao metodo de pintura realista de preencher objetos as quais são voltadas para pinturas em paredes
+ Um blog sobre alternativas ao modo realista de pintar objetos para criar ilustrações para serem pintadas em paredes.
